@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://down.warbler.cc/d/LZYs/GSI/OriginOS/OriginOS1.0-IQOO-AB-10-2021.02.25-LZYGSI.7z
-  ROM_NAME: OriginOS
+  ROM_URL: https://kumisystems.dl.sourceforge.net/project/nippongsi/Nord.zip
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
